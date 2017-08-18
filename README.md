@@ -48,9 +48,11 @@ Everytime you update the code, you will need to stop the running `node app.js` p
 
 ## Images
 ![](img/01-subscribe-on-kik.jpg)
-<center>*Subscribing to penpal01 on kik.*</center>
+
+*Subscribing to penpal01 on kik.*
 <br/><br/>
 
 ![](img/02-penpal-exchange-complete.jpg)
-<center>*Completing profile and recommended a penpal by penpal01 on kik.*</center>
+
+*Completing profile and recommended a penpal by penpal01 on kik.*
 <br/><br/>
