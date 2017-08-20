@@ -22,8 +22,9 @@ Penpal uses the following:
 - Getting data
 	- Generate data [online](https://mockaroo.com/c2431200) or connect to your own database.
 	
+Run `setup.sh` in bash or go through the following steps:
 - API keys
-	- Insert your Microsoft BotFramework API keys in `app.js`, by replacing  the strings `'API_ID'` and `'API_PASSWORD'`. 
+	- Insert your Microsoft BotFramework API keys in `app.js`, by replacing  the strings `'APP_ID'` and `'APP_PASSWORD'`. 
 
 - Node
 	- navigate to `src` and run the following commands in the command line:
